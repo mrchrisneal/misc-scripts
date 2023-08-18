@@ -2,7 +2,7 @@
 
 Home to miscellaneous scripts I've written.
 
-**DO NOT RUN THESE.** Believe me, it's probably not a good idea.
+It's probably not a good idea to run these.
 
 ## Current Scripts
 #### Batch (Win)
@@ -10,4 +10,4 @@ Home to miscellaneous scripts I've written.
 
 #### Shell (Linux)
 - [MSI GS-65 Prep Script](https://github.com/mrchrisneal/misc-scripts/blob/main/shell/gs-65 "MSI GS-65 Prep Script")
-- [unRAID User Scripts Collection](https://github.com/mrchrisneal/unraid-userscripts "unRAID User Scripts Collection")
+- [unRAID User Scripts Collection](https://github.com/mrchrisneal/shellshack "ShellShack (unRAID User Scripts Collection)")
