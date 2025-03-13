@@ -1,77 +1,9 @@
 # Win 11 Network Failover Script
-# Version 1.1 by mrchrisneal - March 12th, 2025
+# Version 1.2 by mrchrisneal - March 13th, 2025
 
-
-# -------- DESCRIPTION --------
-# This script monitors your primary internet connection and 
-# automatically switches to a backup connection when needed. 
-#
-# When your main connection fails, it will enable your mobile device's 
-# USB hotspot, and switch back when the main connection returns.
-#
-# Works with IPv4 and IPv6, using Google IPs by default (can be changed).
-#  
-# REQUIREMENTS: Administrative privileges are required. Execute this script 
-# from an elevated (Administrator) Powershell window. The phone MUST ALSO be 
-# plugged in (and its network adapter present) when the script is started.
-
-
-# -------- IMPORTANT NOTES --------
-# NOTE 1: This script NEEDS CONFIGURATION, in particular by manually 
-# specifying names of network adapters (below). These two variables are: 
-#
-#   $PrimaryAdapterDescription
-#   $BackupAdapterDescription
-#
-#
-# NOTE 2: Requires the backup connection to have its own modem/network adapter 
-# present in "Network Adapters" (via classic Control Panel). You can
-# also find the names of the network adapters present on your system by 
-# running the following Powershell command:
-#
-#   Get-NetAdapter | Format-Table Name, InterfaceDescription
-#
-# 
-# NOTE 3: Requires admin privileges. You can run Powershell as an admin, 
-# THEN execute the script from within the Powershell window by running 
-# the following in the same directory the script is in:
-# 
-#   .\NetworkFailover.ps1
-# 
-# You can also enable debug logging with the -Debug flag:
-# 
-#   .\NetworkFailover.ps1 -Debug
-#
-# It is recommended you put this script somewhere like C:\Tools or the like.
-
-
-# -------- TROUBLESHOOTING --------
-# 
-# ISSUE: Script Won't Run Due to Execution Policy
-# 
-# If you see an error about execution policy, you have several options:
-# 
-# Temporary solution (safest):
-#   powershell -ExecutionPolicy Bypass -File "C:\Tools\NetworkFailover.ps1"
-# 
-# Permanent solution (for your user only):
-#   Set-ExecutionPolicy -Scope CurrentUser RemoteSigned
-#
-# System-wide solution (affects all users):
-#   Set-ExecutionPolicy -Scope LocalMachine RemoteSigned
-# 
-#
-# ISSUE: Adapter Not Found
-#
-# If the script can't find your adapters, run this command to list them all:
-#
-#   Get-NetAdapter | Format-Table Name, InterfaceDescription
-#
-# THEN, edit the script variables (below) to match your adapter descriptions:
-# 
-#   Update $PrimaryAdapterDescription to match your primary connection
-#   Update $BackupAdapterDescription to match your mobile/backup connection
-
+# IMPORTANT: This script requires additional configuration!
+# Please refer to the README located on GitHub for further information:
+# https://github.com/mrchrisneal/misc-scripts/tree/main/powershell/networkfailover
 
 #region Script Parameters 
 # -------- BEGIN USER CONFIG --------
