@@ -67,7 +67,7 @@ For detailed troubleshooting information, add the `-Debug` flag:
 .\NetworkFailover.ps1 -Debug
 ```
 
-### Automatic Startup
+### Automatic Startup (Not Recommended)
 
 To make the script run automatically at system startup:
 
