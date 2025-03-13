@@ -43,7 +43,6 @@
 #   .\NetworkFailover.ps1 -Debug
 #
 # It is recommended you put this script somewhere like C:\Tools or the like.
-# It can also be automatically started at boot (instructions below).
 
 
 # -------- TROUBLESHOOTING --------
