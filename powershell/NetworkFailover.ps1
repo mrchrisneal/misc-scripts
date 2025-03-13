@@ -63,13 +63,14 @@
 #
 # ISSUE: Adapter Not Found
 #
-# If the script can't find your adapters:
-# Run this command to see available adapters:
-# Get-NetAdapter | Format-Table Name, InterfaceDescription
-# THEN, edit the script to match your adapter descriptions:
+# If the script can't find your adapters, run this command to list them all:
+#
+#   Get-NetAdapter | Format-Table Name, InterfaceDescription
+#
+# THEN, edit the script variables (below) to match your adapter descriptions:
 # 
-# Update $PrimaryAdapterDescription (below) to match your primary connection
-# Update $BackupAdapterDescription (below) to match your iPhone connection
+#   Update $PrimaryAdapterDescription to match your primary connection
+#   Update $BackupAdapterDescription to match your mobile/backup connection
 
 
 #region Script Parameters 
