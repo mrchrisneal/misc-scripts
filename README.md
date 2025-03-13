@@ -2,14 +2,14 @@
 
 Home to miscellaneous scripts I've written.
 
-It's probably not a good idea to run these.
+Run these scripts at your own risk. These aren't actively maintained or tested. Your results may vary.
 
 ## Current Scripts
 #### Batch (Win)
 - [Project Zomboid Backup Script](https://github.com/mrchrisneal/misc-scripts/blob/main/batch/zomboid "Project Zomboid Backup Script")
 
 #### Powershell (Win)
-- Network Failover Script
+- [Network Failover Script](https://github.com/mrchrisneal/misc-scripts/blob/main/powershell/NetworkFailover.ps1 "Network Failover Script")
 
 #### Shell (Linux)
 - [MSI GS-65 Prep Script](https://github.com/mrchrisneal/misc-scripts/blob/main/shell/gs-65 "MSI GS-65 Prep Script")
