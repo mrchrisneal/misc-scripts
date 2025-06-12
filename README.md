@@ -2,9 +2,11 @@
 
 Home to miscellaneous scripts I've written. 
 
-Some have been discontinued and will not be updated, so please run these scripts at your own risk. 
+Some have been discontinued and will not be updated, so run these scripts **at your own risk**. Your results may vary.
 
-Most of these scripts aren't actively maintained or tested. Your results may vary.
+This collection is provided for informational and educational purposes only, without any warranties or guarantees.
+
+Happy scripting!
 
 ## Current Scripts
 #### Batch (Win)
