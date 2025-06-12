@@ -1,6 +1,11 @@
 # Win 11 Network Failover Script
 # Version 1.2 by mrchrisneal - March 13th, 2025
 
+# IMPORTANT UPDATE:
+# As of June 11th, 2025, the current iteration of this script does not work as expected 
+# after extensive testing. If you'd like to use and improve this script yourself, please 
+# feel free to do so. Hopefully someone will find this useful! Thank you!
+
 # IMPORTANT: This script requires additional configuration!
 # Please refer to the README located on GitHub for further information:
 # https://github.com/mrchrisneal/misc-scripts/tree/main/powershell/networkfailover
