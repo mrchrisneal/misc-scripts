@@ -4,6 +4,11 @@
 ######  For Kubuntu (and derivatives?)  ######
 ##############################################
 
+## IMPORTANT NOTE (June 11th, 2025):
+## As of writing, this script has not been updated in over two years, and will not be updated in the future. 
+## I no longer use Kubuntu myself, but I will keep this script here in case someone else finds it useful.
+## Thank you for understanding!
+
 ## Q: What is this script for?
 ## A: Setting up Kubuntu (and derivatives?) for use with my MSI GS65 laptop.
 
