@@ -1,5 +1,8 @@
 # Network Failover Script User Guide
 
+## IMPORTANT UPDATE:
+As of June 11th, 2025, the current iteration of this script does not work as expected in testing. If you'd like to use and improve this script yourself, please feel free to do so. Run this script at your own risk!
+
 ## Overview
 
 The NetworkFailover.ps1 script automatically switches between your primary internet connection and a backup connection when your main connection fails. When your primary connection goes down, the script enables your mobile device's USB hotspot and switches back when the main connection returns.
