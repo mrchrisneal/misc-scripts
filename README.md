@@ -13,7 +13,7 @@ Happy scripting!
 - [Project Zomboid Backup Script](https://github.com/mrchrisneal/misc-scripts/blob/main/batch/zomboid "Project Zomboid Backup Script") (Last updated Dec 11th, 2025)
 
 #### Powershell (Win)
-- [Network Failover Script](https://github.com/mrchrisneal/misc-scripts/tree/main/powershell/networkfailover "Network Failover Script") (Last updated Mar 13th, 2025)
+- [Network Failover Script](https://github.com/mrchrisneal/misc-scripts/tree/main/powershell/networkfailover "Network Failover Script") (Last updated Mar 13th, 2025 -- SEE README/NOTES!)
 
 #### Shell (Linux)
 - [MSI GS-65 Prep Script](https://github.com/mrchrisneal/misc-scripts/blob/main/shell/gs-65 "MSI GS-65 Prep Script") (Last updated Mar 10, 2023 - Discontinued/Archived)
