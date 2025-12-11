@@ -10,7 +10,7 @@ Happy scripting!
 
 ## Current Scripts
 #### Batch (Win)
-- [Project Zomboid Backup Script](https://github.com/mrchrisneal/misc-scripts/blob/main/batch/zomboid "Project Zomboid Backup Script") (Last updated Dec 9th, 2022 - Discontinued/Archived)
+- [Project Zomboid Backup Script](https://github.com/mrchrisneal/misc-scripts/blob/main/batch/zomboid "Project Zomboid Backup Script") (Last updated Dec 11th, 2025)
 
 #### Powershell (Win)
 - [Network Failover Script](https://github.com/mrchrisneal/misc-scripts/tree/main/powershell/networkfailover "Network Failover Script") (Last updated Mar 13th, 2025)
