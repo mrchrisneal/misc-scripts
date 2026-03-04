@@ -19,3 +19,6 @@ Happy scripting!
 - [MSI GS-65 Prep Script](https://github.com/mrchrisneal/misc-scripts/blob/main/shell/gs-65 "MSI GS-65 Prep Script") (Last updated Mar 10, 2023 - Discontinued/Archived)
 - [unRAID User Scripts Collection](https://github.com/mrchrisneal/shellshack "ShellShack (unRAID User Scripts Collection)") (Last updated Nov 3, 2023)
 - [Mint (on a MacBook Pro 2014) SSD Optimization Scripts](https://github.com/mrchrisneal/misc-scripts/tree/main/shell/macbookpro11-2 "Mint (on a MacBook Pro 2014) SSD Optimization Scripts") (Last updated Oct 26, 2025)
+
+#### Unraid
+- [Docker vDisk Usage Analyzer](https://github.com/mrchrisneal/misc-scripts/tree/main/unraid/docker_vdisk_usage "Docker vDisk Usage Analyzer") (Last updated Mar 3, 2026)

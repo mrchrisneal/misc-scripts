@@ -3,6 +3,12 @@
 # Docker vDisk Usage Analyzer for Unraid
 # Reports vDisk size, location, and per-container/image/volume space usage.
 #
+# Version:  1.0
+# Date:     March 3, 2026
+# Author:   Chris Neal
+# Repo:     https://github.com/mrchrisneal/misc-scripts
+# Path:     unraid/docker_vdisk_usage/docker_vdisk_usage.sh
+#
 
 SEP="================================================================"
 
